@@ -3,6 +3,7 @@ package club.someoneice.withfire.withFirePackage.item;
 import club.someoneice.withfire.Withfire;
 import club.someoneice.withfire.init.ItemRegister;
 import net.minecraft.network.chat.TranslatableComponent;
+import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.UseAnim;
 import net.minecraft.ChatFormatting;
@@ -18,8 +19,10 @@ import java.util.List;
 
 
 public class MoistWheat extends Item {
+    private static final FoodProperties food = ((new FoodProperties.Builder()).alwaysEat().build());
+
     public MoistWheat() {
-        super(new Properties().tab(Withfire.TAB));
+        super(new Properties().tab(Withfire.TAB).food(food));
     }
 
     @Override
