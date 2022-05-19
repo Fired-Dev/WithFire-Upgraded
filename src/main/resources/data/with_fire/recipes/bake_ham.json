@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+      "item": "with_fire:cook_ham"
+    },
+    "result": "with_fire:bake_ham",
+    "experience": 0.65,
+    "cookingtime": 300
+  }

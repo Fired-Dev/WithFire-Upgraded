@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:fibrous"
+      },
+            {
+        "item": "minecraft:fibrous"
+      },
+      {
+        "item": "minecraft:fibrous"
+      },
+      {
+        "item": "minecraft:fibrous"
+      }
+    ],
+    "result": {
+      "item": "with_fire:hay_rope"
+    }
+  }

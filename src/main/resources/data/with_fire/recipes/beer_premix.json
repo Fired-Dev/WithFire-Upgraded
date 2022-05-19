@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "with_fire:moish_wheat"
+      },
+      {
+        "item": "with_fire:moish_wheat"
+      },
+      {
+        "item": "with_fire:moish_wheat"
+      },
+      {
+          "item": "with_fire:wooden_cap"
+      },
+      {
+          "tag": "forge:foodYeast"
+      }
+    ],
+    "result": {
+      "item": "with_fire:beer_premix"
+    }
+  }

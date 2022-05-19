@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+      "item": "with_fire:cider_premix"
+    },
+    "result": "with_fire:cider",
+    "experience": 3.65,
+    "cookingtime": 2400
+  }

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "forge:stickWood"
+      },
+      {
+        "tag": "forge:stickWood"
+      }
+    ],
+    "result": {
+      "item": "with_fire:hard_wood",
+      "count": 2
+    }
+  }

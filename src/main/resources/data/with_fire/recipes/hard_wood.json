@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "forge:plankWood"
+      }
+    ],
+    "result": {
+      "item": "with_fire:hard_wood",
+      "count": 2
+    }
+  }
