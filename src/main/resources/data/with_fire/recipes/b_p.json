@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "with_fire:dry_fibrous"
+    },
+    {
+      "item": "with_fire:inferior_gunpowder"
+    },
+    {
+      "item": "with_fire:inferior_gunpowder"
+    },
+    {
+      "item": "with_fire:gelatin"
+    },
+    {
+      "item": "with_fire:fire_starter"
+    }
+  ],
+  "result": {
+    "item": "minecraft:blaze_powder"
+  }
+}

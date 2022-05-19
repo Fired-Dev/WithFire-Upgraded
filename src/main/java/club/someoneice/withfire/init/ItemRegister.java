@@ -51,7 +51,7 @@ public class ItemRegister {
     public static RegistryObject<Item> CERAMIC_SHEARS = register(()-> new ShearsItem((new Item.Properties()).durability(128).tab(Withfire.TAB)), "ceramic_shears");
 
     public static RegistryObject<Item> HAM = register(() -> Itemlist.ham(4, 0.5F, true, false, true , 20 * 60, 0, 0.3F, UseAnim.EAT), "ham");
-    public static RegistryObject<Item> COOK_HAM = register(() -> Itemlist.ham(6, 0.5F, true, false, true , 20 * 60 * 3, 0, 0.6F, UseAnim.EAT), "cook_hum");
+    public static RegistryObject<Item> COOK_HAM = register(() -> Itemlist.ham(6, 0.5F, true, false, true , 20 * 60 * 3, 0, 0.6F, UseAnim.EAT), "cook_ham");
     public static RegistryObject<Item> BAKE_HAM = register(() -> Itemlist.ham(10, 1F, true, false, true ,20 * 60 * 6, 1, 0.9F, UseAnim.EAT), "bake_ham");
     public static RegistryObject<Item> CASKET = register(() -> Itemlist.food(10, 0.5F, false, false, true, new MobEffect[]{}, 0, 0, 0, UseAnim.EAT), "casket");
     public static RegistryObject<Item> BEER = register(() -> Itemlist.Drink(3,0.5F, true, false, true, new MobEffect[]{MobEffects.DAMAGE_BOOST, MobEffects.MOVEMENT_SPEED}, 20 * 60, 0, 1), "beer");

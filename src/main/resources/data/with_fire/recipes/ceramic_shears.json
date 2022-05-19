@@ -6,10 +6,7 @@
     ],
     "key": {
       "#": {
-          "item": "with_fire:wood_gear"
-      },
-      "P": {
-        "item": "with_fire:hard_wood"
+        "item": "with_fire:wood_gear"
     },
     "B": {
         "item": "with_fire:ceramic_blade"

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "with_fire:dry_fibrous"
+    },
+    {
+      "item": "with_fire:dry_fibrous"
+    }
+  ],
+  "result": {
+    "item": "with_fire:hay_rope"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gelatin_premix"
+    },
+    {
+      "item": "with_fire:ender"
+    },
+    {
+      "tag": "forge:raw_meat"
+    },
+    {
+      "tag": "forge:raw_meat"
+    }
+  ],
+  "result": {
+    "item": "minecraft:spider_eye"
+  }
+}

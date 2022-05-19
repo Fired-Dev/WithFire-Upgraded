@@ -9,7 +9,7 @@ logoFile="hot.png"
 credits="someoneice"
 authors="someoneice"
 description='''
-然而我并不想写x
+然而我并不想写简介x
 '''
 
 [[dependencies.with_fire]]
