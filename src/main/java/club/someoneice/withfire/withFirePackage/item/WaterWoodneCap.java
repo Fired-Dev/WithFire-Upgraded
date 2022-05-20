@@ -41,6 +41,12 @@ public class WaterWoodneCap extends Item {
     }
 
     @Override
+    public ItemStack getContainerItem(ItemStack itemstack) {
+        ItemStack item = new ItemStack(ItemRegister.WOODEN_CAP.get());
+        return item;
+    }
+
+    @Override
     public boolean hasCraftingRemainingItem() {
         return true;
     }

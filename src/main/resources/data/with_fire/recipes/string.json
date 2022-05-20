@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "with_fire:hay_rope"
+  },
+  "result": "minecraft:string",
+  "experience": 0.25,
+  "cookingtime": 100
+}
