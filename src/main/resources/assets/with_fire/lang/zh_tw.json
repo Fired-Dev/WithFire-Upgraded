@@ -32,6 +32,10 @@
   "item.with_fire.beer":"啤酒",
   "item.with_fire.cider":"蘋果酒",
   "item.with_fire.plum_wine":"甜梅酒",
+  "item.with_fire.wolf_teeth":"狼牙",
 
-  "effect.with_fire.satisfy" : "滿足"
+  "effect.with_fire.satisfy" : "滿足",
+
+  "info.wheat.food": "放在嘴裡與口水拌勻，讓口水的酶來發酵。",
+  "info.teeth.pineapple": "狼狼們會從戰敗的犬科口中拔取犬牙作為紀念品。"
 }

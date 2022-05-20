@@ -45,7 +45,7 @@ public class ModEvent {
         }
 
         if (event.getEntityLiving() instanceof Wolf) {
-            this.dropItem(event, Items.BONE, ItemRegister.BONE_SHARD.get());
+            this.dropItem(event, Items.BONE, ItemRegister.TEETH.get());
             return;
         }
 

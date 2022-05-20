@@ -32,7 +32,10 @@
   "item.with_fire.beer":"啤酒",
   "item.with_fire.cider":"苹果酒",
   "item.with_fire.plum_wine":"甜梅酒",
+  "item.with_fire.wolf_teeth":"狼牙",
 
-  "effect.with_fire.satisfy" : "满足"
+  "effect.with_fire.satisfy" : "满足",
 
+  "info.wheat.food": "放在嘴里与口水拌匀，口水里的酶就能开始逐渐发酵。",
+  "info.teeth.pineapple": "狼狼们会从战败的犬科口中拔取犬齿作为纪念品。"
 }

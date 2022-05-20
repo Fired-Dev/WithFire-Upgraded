@@ -41,7 +41,7 @@ public class ItemRegister {
     public static RegistryObject<Item> GELATIN = register(Itemlist::item, "gelatin");
     public static RegistryObject<Item> GLASS_BALL = register(Itemlist::item, "glass_ball");
     public static RegistryObject<Item> Ender = register(Itemlist::item, "ender");
-    //public static RegistryObject<Item> ENDER_BALL = register(Itemlist::item, "ender_ball");
+    public static RegistryObject<Item> TEETH = register(Wolf_teeth::new, "wolf_teeth");
     public static RegistryObject<Item> BONE_SHARD = register(Itemlist::item, "bone_shard");
     public static RegistryObject<Item> WOODEN_CAP = register(WoodenCap::new, "wooden_cap");
     public static RegistryObject<Item> WATTER_WOODEN_CAP = register(WaterWoodneCap::new, "watter_wooden_cap");

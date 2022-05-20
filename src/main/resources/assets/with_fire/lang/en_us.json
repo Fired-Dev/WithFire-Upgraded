@@ -32,7 +32,10 @@
     "item.with_fire.beer":"Beer",
     "item.with_fire.cider":"Cider",
     "item.with_fire.plum_wine":"Plum Wine",
+    "item.with_fire.wolf_teeth":"Wolf‘s Teeth",
 
-    "effect.with_fire.satisfy" : "Satisfy"
+    "effect.with_fire.satisfy" : "Satisfy",
 
+    "info.wheat.food": "Mix well with the saliva in your mouth, and the enzymes in the saliva will begin to ferment gradually.",
+    "info.teeth.pineapple": "The Wolves will extract teeth from the mouths of defeated canines as loot"
 }
