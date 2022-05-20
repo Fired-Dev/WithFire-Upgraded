@@ -1,5 +1,6 @@
 package club.someoneice.withfire.withFirePackage.item;
 
+import club.someoneice.withfire.Withfire;
 import net.minecraft.ChatFormatting;
 import net.minecraft.network.chat.Component;
 import net.minecraft.network.chat.TranslatableComponent;
@@ -13,7 +14,7 @@ import java.util.List;
 
 public class Wolf_teeth extends Item {
     public Wolf_teeth(){
-        super(new Item.Properties());
+        super(new Item.Properties().tab(Withfire.TAB));
     }
 
     @Override

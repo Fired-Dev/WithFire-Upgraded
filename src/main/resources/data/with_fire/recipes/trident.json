@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " TT",
+    " HT",
+    "# K"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_shovel"
+    },
+    "H": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "T": {
+      "item": "with_fire:wolf_teeth"
+    },
+    "K": {
+      "item": "with_fire:iron_knife"
+    }
+  },
+  "result": {
+    "item": "minecraft:trident"
+  }
+}
