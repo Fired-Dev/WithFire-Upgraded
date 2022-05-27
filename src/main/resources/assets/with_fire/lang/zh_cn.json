@@ -36,6 +36,22 @@
   "item.with_fire.plum_wine":"甜梅酒",
   "item.with_fire.wolf_teeth":"狼牙",
 
+  "item.with_fire.iron_saw":"铁锯",
+  "item.with_fire.copper_saw":"铜锯",
+  "item.with_fire.hand_saw":"手拉锯",
+  "item.with_fire.copper_shears":"铜剪刀",
+  "item.with_fire.honey_tea":"蜂蜜茶",
+  "item.with_fire.honey_wine":"蜂蜜甜酒",
+  "item.with_fire.hot_water":"开水",
+  "item.with_fire.distilled_water":"蒸馏水",
+  "item.with_fire.easy_alcohol":"简易酒精",
+  "item.with_fire.alcohol_premix":"酒精预混合物",
+  "item.with_fire.alcohol":"提纯酒精",
+  "item.with_fire.vodka":"伏特加",
+  "item.with_fire.easy_bandage":"简易绷带",
+  "item.with_fire.bandage":"消毒绷带",
+  "item.with_fire.cook_egg":"煎蛋",
+
   "effect.with_fire.satisfy" : "满足",
 
   "info.wheat.food": "放在嘴里与口水拌匀，口水里的酶就能开始逐渐发酵。",
