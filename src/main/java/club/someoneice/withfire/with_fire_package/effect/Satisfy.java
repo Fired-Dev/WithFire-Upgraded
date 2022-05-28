@@ -1,4 +1,4 @@
-package club.someoneice.withfire.withFirePackage.effect;
+package club.someoneice.withfire.with_fire_package.effect;
 
 import club.someoneice.withfire.init.EffectRegister;
 import com.google.common.collect.Sets;

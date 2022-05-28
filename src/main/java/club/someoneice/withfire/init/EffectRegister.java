@@ -1,7 +1,7 @@
 package club.someoneice.withfire.init;
 
 import club.someoneice.withfire.Withfire;
-import club.someoneice.withfire.withFirePackage.effect.Satisfy;
+import club.someoneice.withfire.with_fire_package.effect.Satisfy;
 import net.minecraft.world.effect.MobEffect;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.registries.DeferredRegister;

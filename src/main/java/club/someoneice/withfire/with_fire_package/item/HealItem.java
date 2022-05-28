@@ -1,4 +1,4 @@
-package club.someoneice.withfire.withFirePackage.item;
+package club.someoneice.withfire.with_fire_package.item;
 
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.sounds.SoundSource;

@@ -2,7 +2,7 @@ package club.someoneice.withfire.init.tool;
 
 import club.someoneice.withfire.Withfire;
 import club.someoneice.withfire.init.EffectRegister;
-import club.someoneice.withfire.withFirePackage.item.HealItem;
+import club.someoneice.withfire.with_fire_package.item.HealItem;
 import net.minecraft.world.effect.MobEffect;
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;

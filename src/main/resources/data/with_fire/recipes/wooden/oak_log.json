@@ -1,0 +1,17 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+        "item": "minecraft:oak_log"
+    },
+    {
+        "tag": "forge:saw"
+    }
+  ],
+  "result": {
+    "item": "minecraft:oak_planks",
+    "count": 6
+  }
+}
+    

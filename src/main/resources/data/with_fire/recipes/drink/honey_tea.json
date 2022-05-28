@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "with_fire:wooden_cap"
+      },
+      {
+        "item": "minecraft:honey_bottle"
+      },
+      {
+        "item": "minecraft:honey_bottle"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "result": {
+      "item": "with_fire:honey_tea"
+    }
+  }

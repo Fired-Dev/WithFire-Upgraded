@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "K# ",
+    " K#",
+    " ##"
+  ],
+  "key": {
+    "#": {
+      "item": "with_fire:hard_wood"
+    },
+    "K": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "with_fire:iron_saw"
+  }
+}

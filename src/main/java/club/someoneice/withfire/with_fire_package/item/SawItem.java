@@ -1,14 +1,14 @@
-package club.someoneice.withfire.withFirePackage.item;
+package club.someoneice.withfire.with_fire_package.item;
 
 import club.someoneice.withfire.Withfire;
+import net.minecraft.world.item.AxeItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.SwordItem;
-import net.minecraft.world.item.Tiers;
+import net.minecraft.world.item.Tier;
 
-public class FlintKnife extends SwordItem {
-    public FlintKnife() {
-        super(Tiers.WOOD, 1, -2.4F, (new Item.Properties()).tab(Withfire.TAB).durability(64));
+public class SawItem extends AxeItem {
+    public SawItem(Tier Tier, float DG, float SP, int DB) {
+        super(Tier, DG, SP, (new Item.Properties()).tab(Withfire.TAB).durability(DB));
     }
 
     @Override

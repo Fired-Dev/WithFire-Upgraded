@@ -1,4 +1,4 @@
-package club.someoneice.withfire.withFirePackage.item;
+package club.someoneice.withfire.with_fire_package.item;
 
 import club.someoneice.withfire.Withfire;
 import net.minecraft.world.item.Item;

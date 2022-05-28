@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:potato"
+      },
+      {
+        "item": "minecraft:potato"
+      },
+      {
+        "item": "minecraft:potato"
+      },
+      {
+        "item": "with_fire:easy_alcohol"
+      }
+    ],
+    "result": {
+      "item": "with_fire:blaze_rod"
+    }
+  }

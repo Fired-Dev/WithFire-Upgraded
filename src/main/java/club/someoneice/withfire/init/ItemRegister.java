@@ -3,7 +3,7 @@ package club.someoneice.withfire.init;
 import club.someoneice.withfire.Withfire;
 
 import club.someoneice.withfire.init.tool.Itemlist;
-import club.someoneice.withfire.withFirePackage.item.*;
+import club.someoneice.withfire.with_fire_package.item.*;
 import net.minecraft.world.effect.MobEffect;
 import net.minecraft.world.effect.MobEffects;
 import net.minecraftforge.registries.DeferredRegister;
@@ -12,7 +12,6 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraft.world.item.*;
 
 import javax.annotation.Nonnull;
-import java.util.Properties;
 import java.util.function.Supplier;
 
 @Mod.EventBusSubscriber(modid = Withfire.MODID, bus = Mod.EventBusSubscriber.Bus.MOD)
