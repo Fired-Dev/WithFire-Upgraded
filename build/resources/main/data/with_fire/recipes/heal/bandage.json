@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "minecraft:wool"
+      },
+      {
+        "tag": "minecraft:wool"
+      },
+      {
+        "item": "with_fire:hot_water"
+      },
+      {
+        "item": "with_fire:alcohol"
+      }
+    ],
+    "result": {
+      "item": "with_fire:bandage",
+      "count": 4
+    }
+  }

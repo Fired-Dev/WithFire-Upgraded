@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "B  ",
+      "B# ",
+      "PBB"
+    ],
+    "key": {
+      "#": {
+          "item": "with_fire:wood_gear"
+      },
+      "P": {
+        "item": "with_fire:hard_wood"
+    },
+      "B": {
+        "item": "with_fire:wooden_blade"
+    }
+    },
+    "result": {
+      "item": "with_fire:wooden_shears"
+    }
+  }

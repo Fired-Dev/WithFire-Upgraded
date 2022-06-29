@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+      "item": "minecraft:charcoal"
+    },
+    "result": "with_fire:inferior_gunpowder",
+    "experience": 0.35,
+    "cookingtime": 1200
+  }

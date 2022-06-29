@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "B  ",
+      "#B "
+    ],
+    "key": {
+      "#": {
+        "item": "with_fire:wood_gear"
+    },
+    "B": {
+        "item": "with_fire:ceramic_blade"
+    }
+    },
+    "result": {
+      "item": "with_fire:ceramic_shears"
+    }
+  }

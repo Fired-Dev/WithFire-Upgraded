@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: examplemod
+Specification-Vendor: examplemodsareus
+Specification-Version: 1
+Implementation-Title: forge-1.18.2-Fire-TeaCon
+Implementation-Version: 1.0
+Implementation-Vendor: examplemodsareus
+Implementation-Timestamp: 2022-05-28T16:08:12+0800
+
