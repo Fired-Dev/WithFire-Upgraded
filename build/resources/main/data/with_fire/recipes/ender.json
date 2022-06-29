@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:campfire_cooking",
-    "ingredient": {
-      "item": "minecraft:popped_chorus_fruit"
-    },
-    "result": "with_fire:ender",
-    "experience": 2.05,
-    "cookingtime": 2400
-  }
