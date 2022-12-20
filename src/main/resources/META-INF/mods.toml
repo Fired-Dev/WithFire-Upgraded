@@ -7,7 +7,7 @@ version="${file.jarVersion}"
 displayName="With Fire"
 logoFile="hot.png"
 credits="someoneice"
-authors="someoneice"
+authors="someoneice, Colinxu2020"
 description='''
 然而我并不想写简介x
 '''
