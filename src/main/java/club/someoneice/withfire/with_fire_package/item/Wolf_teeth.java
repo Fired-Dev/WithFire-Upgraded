@@ -3,7 +3,6 @@ package club.someoneice.withfire.with_fire_package.item;
 import club.someoneice.withfire.Withfire;
 import net.minecraft.ChatFormatting;
 import net.minecraft.network.chat.Component;
-import net.minecraft.network.chat.TranslatableComponent;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.TooltipFlag;
@@ -19,6 +18,6 @@ public class Wolf_teeth extends Item {
 
     @Override
     public void appendHoverText(@NotNull ItemStack items, Level world, List<Component> list, @NotNull TooltipFlag data) {
-        list.add(new TranslatableComponent("info.teeth.pineapple").withStyle(ChatFormatting.GRAY));
+        list.add(Component.translatable("info.teeth.pineapple").withStyle(ChatFormatting.GRAY));
     }
 }

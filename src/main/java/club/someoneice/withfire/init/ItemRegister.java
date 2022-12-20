@@ -7,6 +7,7 @@ import club.someoneice.withfire.with_fire_package.item.*;
 import net.minecraft.world.effect.MobEffect;
 import net.minecraft.world.effect.MobEffects;
 import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraft.world.item.*;
@@ -17,7 +18,7 @@ import java.util.function.Supplier;
 @Mod.EventBusSubscriber(modid = Withfire.MODID, bus = Mod.EventBusSubscriber.Bus.MOD)
 
 public class ItemRegister {
-    public static final DeferredRegister<Item> ItemList = DeferredRegister.create(Item.class, Withfire.MODID);
+    public static final DeferredRegister<Item> ItemList = DeferredRegister.create(ForgeRegistries.ITEMS, Withfire.MODID);
 
     // Start Register Item.
     public static RegistryObject<Item> FIBROUS = register(Itemlist::item , "fibrous");

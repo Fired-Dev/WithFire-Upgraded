@@ -7,6 +7,7 @@ import net.minecraft.world.level.block.Block;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
+import net.minecraftforge.registries.ForgeRegistries;
 
 import javax.annotation.Nonnull;
 import java.util.function.Supplier;
@@ -14,7 +15,7 @@ import java.util.function.Supplier;
 @Mod.EventBusSubscriber(modid = Withfire.MODID, bus = Mod.EventBusSubscriber.Bus.MOD)
 
 public class BlockRegister {
-    public static final DeferredRegister<Block> BlockList = DeferredRegister.create(Block.class, Withfire.MODID);
+    public static final DeferredRegister<Block> BlockList = DeferredRegister.create(ForgeRegistries.BLOCKS, Withfire.MODID);
 
     
 

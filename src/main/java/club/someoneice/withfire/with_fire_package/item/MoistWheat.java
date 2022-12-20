@@ -2,7 +2,6 @@ package club.someoneice.withfire.with_fire_package.item;
 
 import club.someoneice.withfire.Withfire;
 import club.someoneice.withfire.init.ItemRegister;
-import net.minecraft.network.chat.TranslatableComponent;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.UseAnim;
@@ -47,6 +46,6 @@ public class MoistWheat extends Item {
 
     @Override
     public void appendHoverText(@NotNull ItemStack items, Level world, List<Component> list, @NotNull TooltipFlag data) {
-        list.add(new TranslatableComponent("info.wheat.food").withStyle(ChatFormatting.GRAY));
+        list.add(Component.translatable("info.wheat.food").withStyle(ChatFormatting.GRAY));
     }
 }
