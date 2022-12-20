@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " # ",
+      "#K#",
+      " # "
+    ],
+    "key": {
+      "#": {
+          "item": "with_fire:hard_wood"
+      },
+      "K": {
+          "item": "with_fire:flint_knife"
+      }
+    },
+    "result": {
+      "item": "with_fire:wood_gear"
+    }
+  }

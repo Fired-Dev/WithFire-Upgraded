@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "forge:sticks"
+      },
+      {
+        "tag": "forge:sticks"
+      }
+    ],
+    "result": {
+      "item": "with_fire:fire_starter"
+    }
+  }

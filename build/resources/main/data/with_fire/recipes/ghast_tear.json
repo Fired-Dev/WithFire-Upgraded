@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "item": "with_fire:ender"
+    }
+  ],
+  "result": {
+    "item": "minecraft:ghast_tear"
+  }
+}

@@ -1,5 +1,5 @@
 modLoader="javafml" #mandatory
-loaderVersion="[40,)"
+loaderVersion="[43,)"
 license="AFL-3.0"
 [[mods]]
 modId="with_fire"
@@ -15,12 +15,12 @@ description='''
 [[dependencies.with_fire]]
     modId="forge"
     mandatory=true
-    versionRange="[40,)"
+    versionRange="[43,)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.with_fire]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.18.2,1.19)"
+    versionRange="[1.19.2,1.20)"
     ordering="NONE"
     side="BOTH"

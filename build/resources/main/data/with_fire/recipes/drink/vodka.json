@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "with_fire:alcohol"
+      },
+      {
+        "item": "with_fire:distilled_water"
+      }
+    ],
+    "result": {
+      "item": "with_fire:vodka"
+    }
+  }

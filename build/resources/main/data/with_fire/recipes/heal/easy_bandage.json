@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "with_fire:hay_rope"
+      },
+      {
+        "item": "with_fire:hay_rope"
+      },
+      {
+        "item": "with_fire:dry_fibrous"
+      },
+      {
+        "item": "with_fire:dry_fibrous"
+      },
+      {
+        "item": "with_fire:hot_water"
+      }
+    ],
+    "result": {
+      "item": "with_fire:easy_bandage"
+    }
+  }

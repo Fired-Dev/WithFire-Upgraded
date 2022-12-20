@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+      "item": "with_fire:alcohol_premix"
+    },
+    "result": "with_fire:alcohol",
+    "experience": 1.65,
+    "cookingtime": 1200
+}
