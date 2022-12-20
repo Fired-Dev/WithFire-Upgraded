@@ -11,7 +11,7 @@ public class SawItem extends AxeItem {
         super(Tier, DG, SP, (new Item.Properties()).tab(Withfire.TAB).durability(DB));
     }
 
-    @Override
+    //@Override
     public ItemStack getContainerItem(ItemStack itemstack) {
         ItemStack item = new ItemStack(this);
         item.setDamageValue(itemstack.getDamageValue() + 5);

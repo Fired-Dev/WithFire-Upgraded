@@ -11,7 +11,7 @@ public class IronKnife extends SwordItem {
         super(Tiers.IRON, 3, -2.4F, (new Item.Properties()).tab(Withfire.TAB).durability(256));
     }
 
-    @Override
+    //@Override
     public ItemStack getContainerItem(ItemStack itemstack) {
         ItemStack item = new ItemStack(this);
         item.setDamageValue(itemstack.getDamageValue() + 3);

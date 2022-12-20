@@ -25,56 +25,56 @@ public class ModEvent {
 
     @SubscribeEvent
     public void onLifeDrop(LivingDropsEvent event) {
-        if (event.getEntityLiving() == null) {
+        if (event.getEntity() == null) {
             return;
         }
 
-        if (event.getEntityLiving() instanceof Chicken) {
+        if (event.getEntity() instanceof Chicken) {
             this.dropItem(event, ItemRegister.BONE_SHARD.get(), null);
             return;
         }
 
-        if (event.getEntityLiving() instanceof Fox) {
+        if (event.getEntity() instanceof Fox) {
             this.dropItem(event, ItemRegister.BONE_SHARD.get(), ItemRegister.BONE_SHARD.get());
             return;
         }
 
-        if (event.getEntityLiving() instanceof Cat) {
+        if (event.getEntity() instanceof Cat) {
             this.dropItem(event, ItemRegister.BONE_SHARD.get(), ItemRegister.BONE_SHARD.get());
             return;
         }
 
-        if (event.getEntityLiving() instanceof Wolf) {
+        if (event.getEntity() instanceof Wolf) {
             this.dropItem(event, Items.BONE, ItemRegister.TEETH.get());
             return;
         }
 
-        if (event.getEntityLiving() instanceof Panda) {
+        if (event.getEntity() instanceof Panda) {
             this.dropItem(event, Items.BONE, Items.BONE);
             return;
         }
 
-        if (event.getEntityLiving() instanceof Pig) {
+        if (event.getEntity() instanceof Pig) {
             this.dropItem(event, Items.BONE, Items.BONE);
             return;
         }
 
-        if (event.getEntityLiving() instanceof Cow) {
+        if (event.getEntity() instanceof Cow) {
             this.dropItem(event, Items.BONE, Items.BONE);
             return;
         }
 
-        if (event.getEntityLiving() instanceof Goat) {
+        if (event.getEntity() instanceof Goat) {
             this.dropItem(event, Items.BONE, Items.BONE);
             return;
         }
 
-        if (event.getEntityLiving() instanceof Sheep) {
+        if (event.getEntity() instanceof Sheep) {
             this.dropItem(event, Items.BONE, Items.BONE);
             return;
         }
 
-        if (event.getEntityLiving() instanceof Horse) {
+        if (event.getEntity() instanceof Horse) {
             this.dropItem(event, Items.BONE, Items.BONE);
             return;
         }

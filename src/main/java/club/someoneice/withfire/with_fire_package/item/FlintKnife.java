@@ -8,7 +8,7 @@ public class FlintKnife extends SwordItem {
         super(Tiers.WOOD, 1, -2.4F, (new Item.Properties()).tab(Withfire.TAB).durability(64));
     }
 
-    @Override
+    //@Override
     public ItemStack getContainerItem(ItemStack itemstack) {
         ItemStack item = new ItemStack(this);
         item.setDamageValue(itemstack.getDamageValue() + 5);
